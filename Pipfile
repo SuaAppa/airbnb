@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 django = "==2.2.5"
 black = "==20.8b1"
+pillow = "*"
+autopep8 = "*"
+django-countries = "*"
 
 [dev-packages]
 black = "*"
